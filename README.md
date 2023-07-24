@@ -45,7 +45,7 @@
     
 - back to the [localhost:9090](http://localhost:9090) we should be able to see the exporter is up
     
-    ![Screenshot 2023-07-19 at 1.11.54 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/845865e2-1621-40d9-9c10-ec56b24ce9ff/Screenshot_2023-07-19_at_1.11.54_PM.png)
+   
     
 
 ---
